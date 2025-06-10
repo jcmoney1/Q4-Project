@@ -42,6 +42,120 @@ onEvent("button14", "click", function( ) {
 onEvent("button15", "click", function( ) {
   setScreen("RunToCarnival");
 });
-onEvent("id", "click", function( ) {
-  
+onEvent("button32", "click", function( ) {
+  setScreen("dumbmove");
+});
+onEvent("button33", "click", function( ) {
+  setScreen("Homescreen");
+});
+onEvent("button16", "click", function( ) {
+  setScreen("Run2Carnival");
+});
+onEvent("button17", "click", function( ) {
+  setScreen("runtocarnivaldeath1");
+});
+onEvent("button18", "click", function( ) {
+  setScreen("Carnival");
+});
+onEvent("button19", "click", function( ) {
+  setScreen("runtocarnivaldeath1");
+});
+onEvent("button20", "click", function( ) {
+  setScreen("Homescreen");
+});
+onEvent("button21", "click", function( ) {
+  setScreen("CarnivalA1");
+});
+onEvent("button22", "click", function( ) {
+  setScreen("rightwithcarnferriswheel");
+});
+onEvent("button23", "click", function( ) {
+  setScreen("mirrorrooom");
+});
+onEvent("button46", "click", function( ) {
+  setScreen("clowninmirrorroom");
+});
+onEvent("button47", "click", function( ) {
+  setScreen("clowninmirrorroom");
+});
+onEvent("button48", "click", function( ) {
+  setScreen("mirrorsdeath");
+});
+onEvent("button50", "click", function( ) {
+  setScreen("Homescreen");
+});
+onEvent("button49", "click", function( ) {
+  setScreen("Escapedmirrorroom");
+});
+onEvent("button24", "click", function( ) {
+  setScreen("Carnfoodtruck");
+});
+onEvent("button25", "click", function( ) {
+  setScreen("Tent");
+});
+onEvent("button26", "click", function( ) {
+  setScreen("tookclownsfood");
+});
+onEvent("button27", "click", function( ) {
+  setScreen("tookclownsfood");
+});
+onEvent("button28", "click", function( ) {
+  setScreen("tookclownsfood");
+});
+onEvent("button29", "click", function( ) {
+  setScreen("onferriswheel");
+});
+onEvent("button30", "click", function( ) {
+  setScreen("Followingtracks");
+});
+onEvent("button35", "click", function( ) {
+  setScreen("tentlookaround");
+});
+onEvent("button36", "click", function( ) {
+  setScreen("Tentdeath1");
+});
+onEvent("button38", "click", function( ) {
+  setScreen("Homescreen");
+});
+onEvent("button34", "click", function( ) {
+  setScreen("Carouseltentroom");
+});
+onEvent("button37", "click", function( ) {
+  setScreen("Carouseltentroom");
+});
+onEvent("button39", "click", function( ) {
+  setScreen("ExitTentRoom");
+});
+onEvent("button40", "click", function( ) {
+  setScreen("CarouselRide");
+});
+onEvent("button41", "click", function( ) {
+  setScreen("Followingtracks");
+});
+onEvent("button43", "click", function( ) {
+  setScreen("ExitTentRoom");
+});
+onEvent("button51", "click", function( ) {
+  setScreen("keepfollowingtracks");
+});
+onEvent("button31", "click", function( ) {
+  setScreen("Cantoutconfrontclown");
+});
+onEvent("button52", "click", function( ) {
+  setScreen("Homescreen");
+});
+onEvent("button54", "click", function( ) {
+  setScreen("Homescreen");
+});
+onEvent("button45", "click", function( ) {
+  setScreen("Followingtracks");
+});
+onEvent("button42", "click", function( ) {
+  setScreen("Followingtracks");
+});
+onEvent("button53", "click", function( ) {
+  setScreen("Homescreen");
+});
+onEvent("button55", "click", function( ) {
+  setScreen("Followingtracks");
 });
