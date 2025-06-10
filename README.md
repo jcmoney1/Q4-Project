@@ -159,3 +159,45 @@ onEvent("button53", "click", function( ) {
 onEvent("button55", "click", function( ) {
   setScreen("Followingtracks");
 });
+onEvent("button56", "click", function( ) {
+  setScreen("golfcartchasedbyclown");
+});
+onEvent("button57", "click", function( ) {
+  setScreen("golfcartchasesurvive");
+});
+onEvent("button58", "click", function( ) {
+  setScreen("golfcartclowndeath");
+});
+onEvent("button63", "click", function( ) {
+  setScreen("Homescreen");
+});
+onEvent("button65", "click", function( ) {
+  setScreen("Homescreen");
+});
+onEvent("button62", "click", function( ) {
+  setScreen("golfcardoorkillsyou");
+});
+onEvent("button60", "click", function( ) {
+  setScreen("OfframpWON");
+});
+onEvent("button9", "click", function( ) {
+  setScreen("Screen2");
+});
+onEvent("button66", "click", function( ) {
+  setScreen("Screen3(death)");
+});
+onEvent("button68", "click", function( ) {
+  setScreen("Homescreen");
+});
+onEvent("button64", "click", function( ) {
+  setScreen("Screen4");
+});
+onEvent("button70", "click", function( ) {
+  setScreen("Screen5(death)");
+});
+onEvent("button72", "click", function( ) {
+  setScreen("Screen6");
+});
+onEvent("button74", "click", function( ) {
+  setScreen("Homescreen");
+});
