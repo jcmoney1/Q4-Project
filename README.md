@@ -201,3 +201,69 @@ onEvent("button72", "click", function( ) {
 onEvent("button74", "click", function( ) {
   setScreen("Homescreen");
 });
+onEvent("button79", "click", function( ) {
+  setScreen("Screen10");
+});
+onEvent("button8", "click", function( ) {
+  setScreen("Screen11(Death)");
+});
+onEvent("button80", "click", function( ) {
+  setScreen("Homescreen");
+});
+onEvent("button73", "click", function( ) {
+  setScreen("Screen12");
+});
+onEvent("button81", "click", function( ) {
+  setScreen("Homescreen");
+});
+onEvent("button82", "click", function( ) {
+  setScreen("Screen14");
+});
+onEvent("button89", "click", function( ) {
+  setScreen("Homescreen");
+});
+onEvent("button86", "click", function( ) {
+  setScreen("Screen15(Death)");
+});
+onEvent("button87", "click", function( ) {
+  setScreen("Screen16");
+});
+onEvent("button76", "click", function( ) {
+  setScreen("Screen16");
+});
+onEvent("button69", "click", function( ) {
+  setScreen("Homescreen");
+});
+onEvent("button77", "click", function( ) {
+  setScreen("Screen17");
+});
+onEvent("button91", "click", function( ) {
+  setScreen("Screen18");
+});
+onEvent("button85", "click", function( ) {
+  setScreen("Screen18");
+});
+onEvent("button95", "click", function( ) {
+  setScreen("Homescreen");
+});
+onEvent("button94", "click", function( ) {
+  setScreen("Screen19(Death)");
+});
+onEvent("button93", "click", function( ) {
+  setScreen("Screen20");
+});
+onEvent("button99", "click", function( ) {
+  setScreen("Homescreen");
+});
+onEvent("button97", "click", function( ) {
+  setScreen("Screen21(Death)");
+});
+onEvent("button98", "click", function( ) {
+  setScreen("Screen22");
+});
+onEvent("button103", "click", function( ) {
+  setScreen("Homescreen");
+});
+onEvent("button102", "click", function( ) {
+  setScreen("Screen23");
+});
